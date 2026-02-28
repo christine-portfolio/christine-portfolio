@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Christine!
 
-<!--
-**christine-portfolio/christine-portfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught data analyst with a background in computer science- now building impactful projects in Excel, SQL, PowerBi and Python.
 
-Here are some ideas to get you started:
+## Tools I work with
+-Microsoft Excel
+-SQL
+-PowerBi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects
+-[E-Commerce Sales Dashboard] (....)
+-[Health Insurance Dashboard] (....)
+-[TATA Online Retail Dashboard] (....)
+-[Digital Marketing Dashboard] (....)
+-[Global Debt Dashboard] (....)
+
+## Currently Learning
+-Advanced SQL
+-Python for Data Science
+
+## Let's Connect!
+[LinkedIn](....)
