@@ -8,11 +8,11 @@ I'm a self-taught data analyst with a background in computer science- now buildi
 - PowerBi
 
 ## My Projects
-- [E-Commerce Sales Dashboard] (....)
-- [Health Insurance Dashboard] (....)
-- [TATA Online Retail Dashboard] (....)
-- [Digital Marketing Dashboard] (....)
-- [Global Debt Dashboard] (....)
+- [E-Commerce Sales Dashboard](https://github.com/christine-portfolio/E-commerce-sales-analysis)
+- [Health Insurance Dashboard](....)
+- [TATA Online Retail Dashboard](....)
+- [Digital Marketing Dashboard](....)
+- [Global Debt Dashboard](....)
 
 ## Currently Learning
 - Advanced SQL
