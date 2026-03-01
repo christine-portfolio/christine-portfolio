@@ -10,7 +10,7 @@ I'm a self-taught data analyst with a background in computer science- now buildi
 ## My Projects
 - [E-Commerce Sales Dashboard](https://github.com/christine-portfolio/E-commerce-sales-analysis)
 - [Health Insurance Dashboard](https://github.com/christine-portfolio/Health-Insurance-Analysis)
-- [TATA Online Retail Dashboard](....)
+- [Retail Sales and Customer Demographics Dashboard](https://github.com/christine-portfolio/Retail-Sales-and-Demographics-Analysis)
 - [Digital Marketing Dashboard](....)
 - [Global Debt Dashboard](....)
 
