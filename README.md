@@ -11,7 +11,7 @@ I'm a self-taught data analyst with a background in computer science- now buildi
 - [E-Commerce Sales Dashboard](https://github.com/christine-portfolio/E-commerce-sales-analysis)
 - [Health Insurance Dashboard](https://github.com/christine-portfolio/Health-Insurance-Analysis)
 - [Retail Sales and Customer Demographics Dashboard](https://github.com/christine-portfolio/Retail-Sales-and-Demographics-Analysis)
-- [Digital Marketing Dashboard](....)
+- [Digital Marketing Dashboard](https://github.com/christine-portfolio/Digital-Marketing-Analysis)
 - [Global Debt Dashboard](....)
 
 ## Currently Learning
