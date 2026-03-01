@@ -12,11 +12,11 @@ I'm a self-taught data analyst with a background in computer science- now buildi
 - [Health Insurance Dashboard](https://github.com/christine-portfolio/Health-Insurance-Analysis)
 - [Retail Sales and Customer Demographics Dashboard](https://github.com/christine-portfolio/Retail-Sales-and-Demographics-Analysis)
 - [Digital Marketing Dashboard](https://github.com/christine-portfolio/Digital-Marketing-Analysis)
-- [Global Debt Dashboard](....)
+- [Global Debt Dashboard](https://github.com/christine-portfolio/Global-Debt-Report)
 
 ## Currently Learning
 - Advanced SQL
 - Python for Data Science
 
 ## Let's Connect!
-[LinkedIn](....)
+
